@@ -1,0 +1,1 @@
+{"name":"Local: CFR367Div2-B","url":"c:\\Users\\USER\\Desktop\\Cpp\\CFR367Div2-B.cpp","tests":[{"id":1733323647919,"input":"5\n3 10 8 6 11\n4\n1\n10\n3\n11","output":"0\n4\n1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\Cpp\\CFR367Div2-B.cpp","group":"local","local":true}

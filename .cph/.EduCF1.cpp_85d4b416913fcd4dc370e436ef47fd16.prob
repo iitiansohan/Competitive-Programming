@@ -1,0 +1,1 @@
+{"name":"Local: EduCF1","url":"c:\\Users\\USER\\Desktop\\Cpp\\EduCF1.cpp","tests":[{"id":1733759683488,"input":"7 20\n2 6 4 3 6 8 9\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\Cpp\\EduCF1.cpp","group":"local","local":true}

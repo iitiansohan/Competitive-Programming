@@ -1,0 +1,1 @@
+{"name":"Local: CFR928Div4-A","url":"c:\\Users\\USER\\Desktop\\Cpp\\CFR928Div4-A.cpp","tests":[{"id":1728129348707,"input":"8\nABABB\nABABA\nBBBAB\nAAAAA\nBBBBB\nBABAA\nAAAAB\nBAAAA","output":"B\nA\nB\nA\nB\nA\nA\nA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\Cpp\\CFR928Div4-A.cpp","group":"local","local":true}

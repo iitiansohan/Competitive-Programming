@@ -1,0 +1,1 @@
+{"name":"Local: CFGlobalR27-A","url":"c:\\Users\\USER\\Desktop\\Cpp\\CFGlobalR27-A.cpp","tests":[{"id":1731749844393,"input":"4\n2 3 1 2\n2 2 2 1\n1 1 1 1\n1000000 1000000 1 1\n","output":"6\n1\n0\n1999998000000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\Cpp\\CFGlobalR27-A.cpp","group":"local","local":true}

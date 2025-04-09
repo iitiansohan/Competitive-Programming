@@ -1,0 +1,1 @@
+{"name":"Local: CFR976Div2-A","url":"c:\\Users\\USER\\Desktop\\Cpp\\CFR976Div2-A.cpp","tests":[{"id":1729183526057,"input":"6\n5 2\n3 5\n16 4\n100 3\n6492 10\n10 1","output":"2\n3\n1\n4\n21\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\Cpp\\CFR976Div2-A.cpp","group":"local","local":true}

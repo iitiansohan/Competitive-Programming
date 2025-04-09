@@ -1,0 +1,1 @@
+{"name":"Local: ClosestinArray","url":"c:\\Users\\USER\\Desktop\\Cpp\\ClosestinArray.cpp","tests":[{"id":1735307526425,"input":"9 20\n3 5 10 11 13 18 25 27 31","output":"18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\Cpp\\ClosestinArray.cpp","group":"local","local":true}

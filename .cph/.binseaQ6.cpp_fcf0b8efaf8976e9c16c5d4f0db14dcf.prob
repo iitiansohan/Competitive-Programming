@@ -1,0 +1,1 @@
+{"name":"Local: binseaQ6","url":"c:\\Users\\USER\\Desktop\\Cpp\\binseaQ6.cpp","tests":[{"id":1727777177283,"input":"5\n1 4 6 9 12\n1\n2 2","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\Cpp\\binseaQ6.cpp","group":"local","local":true}
